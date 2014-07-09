@@ -13,7 +13,7 @@ package indices
 
 import (
 	"encoding/json"
-	api "github.com/mattbaird/elastigo/api"
+	api "github.com/bejayoharen/elastigo/api"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
